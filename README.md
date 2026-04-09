@@ -31,10 +31,10 @@ This project includes the following steps:
 
 ## Tools and Libraries
 - Python
-- pandas
-- numpy
-- scipy
-- matplotlib
+- pandas (data manipulation)
+- numpy (numerical operations)
+- scipy (statistical testing)
+- matplotlib (data visualization)
 
 ## Key Questions
 - How do customers on Surf and Ultimate differ in their usage patterns?
