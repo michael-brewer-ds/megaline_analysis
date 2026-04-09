@@ -14,7 +14,7 @@ Ultimate generates higher and more stable revenue than Surf, with statistically 
 ## Results Summary
 - Plan with higher average revenue: Ultimate
 - Main revenue driver: Ultimate generates more predictable monthly revenue, while Surf revenue is more variable and often depends on overage charges, especially for data usage
-- Statistical significance: Yes. The difference in average revenue is statistically significant at a 95% confidence level, supporting Ultimate as the stronger choice by a standard data-driven business threshold
+- Statistical significance: The difference in average revenue is statistically significant at a 95% confidence level, supporting Ultimate as the stronger choice by a standard data-driven business threshold
 - Business recommendation: Allocate more advertising budget to Ultimate, target high-usage Surf customers for upgrades, reevaluate current plan limits and overage pricing, and consider introducing a new unlimited-tier plan to better capture heavy data users and improve long-term revenue opportunities
 
 ## Business Impact
