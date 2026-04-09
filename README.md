@@ -35,7 +35,6 @@ This project includes the following steps:
 - numpy
 - scipy
 - matplotlib
-- seaborn
 
 ## Key Questions
 - How do customers on Surf and Ultimate differ in their usage patterns?
