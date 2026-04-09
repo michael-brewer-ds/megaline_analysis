@@ -1,5 +1,13 @@
 # Megaline Statistical Data Analysis
 
+## Overview
+This project analyzes simulated customer behavior and revenue patterns for Megaline, a telecom operator offering two prepaid plans: Surf and Ultimate. The objective is to determine which plan generates more revenue and provide a data-driven recommendation to support marketing budget allocation.
+
+Using a sample of approximately 500 customers, this analysis examines call, message, and internet usage throughout 2018, then compares plan performance through exploratory analysis and statistical testing.
+
+## Business Problem
+Megaline’s commercial team needs to know which prepaid plan brings in more revenue so the company can allocate its advertising budget more effectively. This project evaluates the revenue performance of Surf and Ultimate by analyzing customer usage behavior and testing whether observed differences are statistically significant.
+
 ## Executive Summary
 Ultimate generates higher and more stable revenue than Surf, with statistically significant results. The analysis supports prioritizing Ultimate in marketing, optimizing pricing structures, and exploring a new unlimited-tier plan to better capture high-usage customers.
 
@@ -11,14 +19,6 @@ Ultimate generates higher and more stable revenue than Surf, with statistically 
 
 ## Business Impact
 This analysis informs marketing budget allocation and highlights opportunities to improve pricing strategy and product design. Recommendations include shifting focus toward higher-value customers, refining plan structures, and expanding offerings to increase revenue stability.
-
-## Overview
-This project analyzes simulated customer behavior and revenue patterns for Megaline, a telecom operator offering two prepaid plans: Surf and Ultimate. The objective is to determine which plan generates more revenue and provide a data-driven recommendation to support marketing budget allocation.
-
-Using a sample of approximately 500 customers, this analysis examines call, message, and internet usage throughout 2018, then compares plan performance through exploratory analysis and statistical testing.
-
-## Business Problem
-Megaline’s commercial team needs to know which prepaid plan brings in more revenue so the company can allocate its advertising budget more effectively. This project evaluates the revenue performance of Surf and Ultimate by analyzing customer usage behavior and testing whether observed differences are statistically significant.
 
 ## Dataset
 This project uses a simulated dataset representing approximately 500 Megaline customers. The data is designed for analytical practice and models realistic customer activity, plan usage, and revenue behavior.
