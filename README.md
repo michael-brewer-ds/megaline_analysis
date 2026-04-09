@@ -43,10 +43,10 @@ This project includes the following steps:
 - What recommendation should Megaline use to guide advertising spend?
 
 ## Results Summary
-- Plan with higher average revenue: [Insert final result]
-- Main revenue driver: [Insert final result]
-- Statistical significance: [Insert final result]
-- Business recommendation: [Insert final result]
+- Plan with higher average revenue: Ultimate
+- Main revenue driver: Predictable subscription revenue from Ultimate users vs. variable overage-driven revenue from Surf users (primarily data overages)
+- Statistical significance: Yes (difference in average revenue is statistically significant at α = 0.05)
+- Business recommendation: Increase marketing investment in the Ultimate plan and target high-usage Surf customers for conversion to improve revenue stability
 
 ## Key Insights
 - Customer behavior differs across the two prepaid plans in calls, messages, and internet usage.
