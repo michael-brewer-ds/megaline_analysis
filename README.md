@@ -1,15 +1,15 @@
 # Megaline Statistical Data Analysis
 
 ## Overview
-This project analyzes simulated customer behavior and revenue patterns for Megaline, a telecom operator offering two prepaid plans: Surf and Ultimate. The objective is to determine which plan generates more revenue and provide a data-driven recommendation to support marketing budget allocation.
+This project analyzes simulated customer behavior and revenue patterns for Megaline, a telecom operator offering two prepaid plans: Surf and Ultimate. The objective is to determine which plan generates more revenue and support data-driven marketing budget decisions.
 
-Using a sample of approximately 500 customers, this analysis examines call, message, and internet usage throughout 2018, then compares plan performance through exploratory analysis and statistical testing.
+Using a sample of approximately 500 customers, this analysis examines call, message, and internet usage throughout 2018 and compares plan performance through exploratory analysis and statistical testing.
 
 ## Business Problem
-Megaline’s commercial team needs to know which prepaid plan brings in more revenue so the company can allocate its advertising budget more effectively. This project evaluates the revenue performance of Surf and Ultimate by analyzing customer usage behavior and testing whether observed differences are statistically significant.
+Megaline’s commercial team needs to identify which prepaid plan generates more revenue in order to allocate its advertising budget more effectively.
 
 ## Executive Summary
-Ultimate generates higher and more stable revenue than Surf, with statistically significant results. The analysis supports prioritizing Ultimate in marketing, optimizing pricing structures, and exploring a new unlimited-tier plan to better capture high-usage customers.
+Ultimate generates higher and more stable revenue than Surf. Results support prioritizing Ultimate in marketing and exploring pricing and product improvements to better capture high-usage customers.
 
 ## Results Summary
 - Plan with higher average revenue: Ultimate
@@ -18,7 +18,7 @@ Ultimate generates higher and more stable revenue than Surf, with statistically 
 - Business recommendation: Allocate more advertising budget to Ultimate, target high-usage Surf customers for upgrades, reevaluate current plan limits and overage pricing, and consider introducing a new unlimited-tier plan to better capture heavy data users and improve long-term revenue opportunities
 
 ## Business Impact
-This analysis informs marketing budget allocation and highlights opportunities to improve pricing strategy and product design. Recommendations include shifting focus toward higher-value customers, refining plan structures, and expanding offerings to increase revenue stability.
+This analysis provides a clear basis for allocating marketing resources toward higher-value plans and improving revenue predictability. It also highlights opportunities to refine pricing structures and expand product offerings to better align with customer usage patterns.
 
 ## Dataset
 This project uses a simulated dataset representing approximately 500 Megaline customers. The data is designed for analytical practice and models realistic customer activity, plan usage, and revenue behavior.
@@ -54,7 +54,7 @@ This project includes the following steps:
 - What recommendation should Megaline use to guide advertising spend?  
 
 ## Conclusion
-Ultimate is the stronger revenue-generating plan and the better candidate for increased advertising investment. The analysis also reveals opportunities to improve pricing strategy through plan adjustments and the potential introduction of an unlimited-tier offering for high-usage customers.
+Ultimate is the stronger revenue-generating plan and should be prioritized in both marketing and pricing strategy decisions.
 
 ## Tools and Libraries
 - Python  
@@ -79,4 +79,4 @@ This project demonstrates:
 - Exploratory data analysis  
 - Statistical hypothesis testing  
 - Business-focused analytical reasoning  
-- Clear communication of findings and recommendations
+- Clear communication of findings and recommendations  
