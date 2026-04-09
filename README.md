@@ -3,7 +3,7 @@
 ## Overview
 This project analyzes simulated customer behavior and revenue patterns for Megaline, a telecom operator offering two prepaid plans: Surf and Ultimate. The objective is to determine which plan generates more revenue and support data-driven marketing budget decisions.
 
-Using a sample of approximately 500 customers, this analysis examines call, message, and internet usage throughout 2018 and compares plan performance through exploratory analysis and statistical testing.
+Using a sample of 500 customers, this analysis examines call, message, and internet usage throughout 2018 and compares plan performance through exploratory analysis and statistical testing.
 
 ## Business Problem
 Megaline’s commercial team needs to identify which prepaid plan generates more revenue in order to allocate its advertising budget more effectively.
@@ -21,7 +21,7 @@ Ultimate generates higher and more stable revenue than Surf. Results support pri
 This analysis provides a clear basis for allocating marketing resources toward higher-value plans and improving revenue predictability. It also highlights opportunities to refine pricing structures and expand product offerings to better align with customer usage patterns.
 
 ## Dataset
-This project uses a simulated dataset representing approximately 500 Megaline customers. The data is designed for analytical practice and models realistic customer activity, plan usage, and revenue behavior.
+This project uses a simulated dataset representing 500 Megaline customers. The data is designed for analytical practice and models realistic customer activity, plan usage, and revenue behavior.
 
 The dataset includes:
 - Plan type
@@ -32,6 +32,8 @@ The dataset includes:
 - Revenue-related data derived from plan pricing and overage charges
 
 The analysis focuses on customer activity during 2018.
+
+**Note:** The source dataset is not included in this repository. The notebook is presented as a portfolio artifact with saved outputs and analysis results.
 
 ## Methodology
 This project includes the following steps:
@@ -67,11 +69,10 @@ Ultimate is the stronger revenue-generating plan and should be prioritized in bo
 - `SDA.ipynb` — full statistical analysis notebook  
 - `README.md` — project summary and portfolio overview  
 
-## How to Run
-1. Open the notebook in Jupyter Notebook, JupyterLab, or VS Code  
-2. Install required Python libraries if needed:  
-   `pandas`, `numpy`, `scipy`, `matplotlib`  
-3. Run the notebook from top to bottom to reproduce the analysis  
+## Viewing the Project
+The analysis notebook (`SDA.ipynb`) is fully executed and includes all outputs, visualizations, and conclusions. It can be viewed directly on GitHub without requiring any setup.
+
+The source dataset is not included in this repository, as this project is presented as a portfolio artifact.
 
 ## Portfolio Notes
 This project demonstrates:
